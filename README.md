@@ -1,4 +1,5 @@
 # To-Do List Python App
+# Simple To-Do list
 
 This is a simple command-line To-Do List application built using Python.
 
